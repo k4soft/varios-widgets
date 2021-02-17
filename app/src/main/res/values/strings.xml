@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">otros widgets</string>
+    <string name="lunes">Lunes</string>
+    <string name="martes">Martes</string>
+    <string name="miercoles">Miércoles</string>
+    <string name="jueves">Jueves</string>
+    <string name="viernes">Viernes</string>
+    <string name="digite_un_dia_semana">Digite un día de la semana</string>
+</resources>
